@@ -16,3 +16,5 @@ Publish game on itch.io
 ## Tech Stack
 
 C# and Unity
+
+<img width="377" height="462" alt="CS193MVP drawio" src="https://github.com/user-attachments/assets/0e5bcc0d-6c90-4be8-84c8-d57cc1ec2602" />
